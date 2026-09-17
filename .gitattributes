@@ -1,0 +1,10 @@
+# Project-specific overrides
+# Language detection rules
+
+*.jpeg binary
+* text=auto
+examples/site/** linguist-vendored
+*.gif binary
+*.ts linguist-detectable
+
+# eof e6131238
